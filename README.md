@@ -1,1 +1,2 @@
-This is a git assignment
+This is a git assignment 
+Modifying the file
